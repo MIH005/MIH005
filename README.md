@@ -24,7 +24,7 @@
 🔭 Tenho experiência com arquitetura MVC e já trabalhei com Flask.<br/>
 💬 Estou sempre desenvolvendo competências em diversas áreas do desenvolvimento.<br/>
 ⚡ Tenho grande interesse por Inteligência Artificial, especialmente Machine Learning e automação.<br/>
-🐱 Amo gatos.<br/>
+🐱 Sou apaixonada por gatos!!.<br/>
 🎸 Gosto de bandas emo e hard rock — a música é essencial no meu dia a dia!<br/>
 ✨ Sou detalhista e gosto de entregar o melhor em tudo o que faço.
 </h6>
@@ -32,10 +32,10 @@
 <!-- Contatos -->
 <h3>🧲 Contato</h3>
 <a href="mailto:emillylourenco@outlook.com">
-  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
+  <img width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/MIH005" target="_blank">
-  <img width="50px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/emillylourenço" target="_blank">
+  <img width="40px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png" alt="LinkedIn"/>
 </a>
 
 ---
