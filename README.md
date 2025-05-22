@@ -2,6 +2,8 @@
   <img src="banner.gif"/>
 </a>
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=86AAD5&center=true&width=435&lines=Bem-vindo+(a)+ao+meu+perfil!)]
 
 <!-- Greeting -->
