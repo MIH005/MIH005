@@ -1,5 +1,5 @@
-<a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAxMGNrcTVvbWliOGEybng5YWc4eTI0NDd2MHQ3ZnBrMmFsa3N3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAxMGNrcTVvbWliOGEybng5YWc4eTI0NDd2MHQ3ZnBrMmFsa3N3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif"/>
+<a href="#">
+  <img src="banner.gif"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=86AAD5&center=true&width=435&lines=Bem-vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
