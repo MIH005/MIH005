@@ -17,7 +17,7 @@ Tenho foco em desenvolvimento back-end, buscando criar soluções eficientes e e
 Estou sempre aprendendo e explorando novas tecnologias para crescer profissionalmente.
 </h4>
 
-<img align="right" alt="coding-gif" style="width: 300px; height: auto;" src="bolinhas.gif"/>
+<img align="right" alt="coding-gif" style="width: 300px; height: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdzZGE1ZG8yMjUyYmUya3N3NHdtMGt4YTAyNTU2bXlmNGU1dGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/daxJ5FMqFQob6ublDC/giphy.gif"/>
 
 <!-- About me -->
 <h3 align="left">💫 Sobre Mim</h3>
