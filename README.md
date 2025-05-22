@@ -1,5 +1,5 @@
 <a href="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif">
-  <img src="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="100%"/>
+  <img src="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="90%"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=86AAD5&center=true&width=435&lines=Bem-vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
