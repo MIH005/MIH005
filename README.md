@@ -4,8 +4,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=86AAD5&center=true&width=435&lines=Bem-vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
 <!-- Greeting -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -13,15 +11,15 @@
   </a>
 </h1>
 
-<h4 align="left">
+<h6 align="left">
 🌟 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, formada no curso de Programação do Instituto PROA e Técnica em Desenvolvimento de Sistemas pela Etec SEBRAE. Gosto do desenvolvimento back-end, buscando criar soluções eficientes e escaláveis. Estou sempre aprendendo e explorando novas tecnologias para crescer profissionalmente.
-</h4>
+</h6>
 
 <img align="right" alt="coding-gif" style="width: 300px; height: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdzZGE1ZG8yMjUyYmUya3N3NHdtMGt4YTAyNTU2bXlmNGU1dGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/daxJ5FMqFQob6ublDC/giphy.gif"/>
 
 <!-- About me -->
 <h3 align="left">💫 Sobre Mim</h3>
-<h4>
+<h6>
 🌱 Atualmente estou aprimorando minhas habilidades em programação.<br/>
 🔭 Tenho experiência com arquitetura MVC e já trabalhei com Flask.<br/>
 💬 Estou sempre desenvolvendo competências em diversas áreas do desenvolvimento.<br/>
@@ -29,7 +27,7 @@
 🐱 Amo gatos.<br/>
 🎸 Gosto de bandas emo e hard rock — a música é essencial no meu dia a dia!<br/>
 ✨ Sou detalhista e gosto de entregar o melhor em tudo o que faço.
-</h4>
+</h6>
 
 <!-- Contatos -->
 <h3>🧲 Contato</h3>
