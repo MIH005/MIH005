@@ -12,7 +12,7 @@
 </h1>
 
 <h5 align="left">
-🌟 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, formada no curso de Programação do Instituto PROA e Técnica em Desenvolvimento de Sistemas pela Etec SEBRAE. Gosto do desenvolvimento back-end, buscando criar soluções eficientes e escaláveis. Estou sempre aprendendo e explorando novas tecnologias para crescer profissionalmente.
+🌟 Sou estudante de Sistemas de Informação na Faculdade Impacta, formada no curso de Programação do Instituto PROA e Técnica em Desenvolvimento de Sistemas pela Etec SEBRAE. Gosto do desenvolvimento back-end, buscando criar soluções eficientes e escaláveis. Estou sempre aprendendo e explorando novas tecnologias para crescer profissionalmente.
 </h5>
 
 <img align="right" alt="coding-gif" style="width: 300px; height: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdzZGE1ZG8yMjUyYmUya3N3NHdtMGt4YTAyNTU2bXlmNGU1dGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/daxJ5FMqFQob6ublDC/giphy.gif"/>
